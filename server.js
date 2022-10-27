@@ -1,1 +1,4 @@
-console.log("Hola soy lo mas")
+const express = require("express")
+const app = express()
+
+app.listen(4000, ()=>{console.log("Sever is listening on port 4000")})
