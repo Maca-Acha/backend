@@ -28,7 +28,7 @@ const contactController = {
             console.log(error)
             return res.status(500).json({success:false, response:"Internal Server Error"})
         }
-    }
+    },
 }
 
 module.exports = contactController 
