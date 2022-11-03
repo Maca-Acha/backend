@@ -21,7 +21,6 @@
     "express": "^4.18.2",
     "firebase-admin": "^11.2.0",
     "firefose": "^1.1.5",
-    "mongoose": "^6.7.0",
-    "vite": "^3.2.0"
+    "mongoose": "^6.7.0"
   }
 }
